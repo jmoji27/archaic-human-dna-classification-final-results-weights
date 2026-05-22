@@ -1,14 +1,5 @@
 # Classification of Archaic Human Genomics Using Deep Neural Networks
 
-## Project Overview
-This repository contains the course project for Introduction to Deep Learning at Eskişehir Technical University (Department of Computer Engineering).
-
-* **Instructor:** Prof. Dr. Cahit Perkgöz
-* **Group Members:**
-  * Jaime Jesus Mojica Dominguez
-  * Canay Moradi
-  * Şevval Gürler
-
 ### Problem Definition
 Modern Humans (Homo Sapiens) and Neanderthals (Homo neanderthalensis) diverged approximately 500,000 to 750,000 years ago. Subsequently, Neanderthals and Denisovans diverged around 381,000 to 473,000 years ago, both going extinct roughly 40,000 years ago. Because these hominin groups are evolutionarily closely related, distinguishing their short genomic sequences represents a challenging classification task.
 
